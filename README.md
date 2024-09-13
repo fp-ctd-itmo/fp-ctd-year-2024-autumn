@@ -4,6 +4,7 @@
 
 * [Страница с материалами курса](https://github.com/jagajaga/FP-Course-ITMO).
 * [Диск с записями лекций](https://drive.google.com/drive/folders/19dzMUp4KixgoUZOpHJbraG1irlgv73el).
+* [Папка с условиями домашних заданий](/Homework/).
 * [Style-guide](code-style.md).
 * [Рекомендуемая конфигурация stylish-haskell](.stylish-haskell.yaml).
 * [Рекомендации по настройке рабочего окружения](environment-setup.md).
