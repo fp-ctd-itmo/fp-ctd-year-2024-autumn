@@ -136,7 +136,7 @@ Task 3
    -- | Insert an element into the tree, O(tdepth tree)
    tinsert :: Ord a => a -> Tree a -> Tree a
 
-   -- | Build a tree from a list, O(n log n)
+   -- | Build a tree from a list, if advanced implementation then O(n * tdepth tree) else O(n^2)
    tFromList :: Ord a => [a] -> Tree a
    ```
 
