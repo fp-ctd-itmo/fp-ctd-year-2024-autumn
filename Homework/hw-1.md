@@ -119,7 +119,7 @@ Task 3
       * **HeightBalanced**: For any given `Branch _ l _ r`, the difference
         between the height of `l` and the height of `r` never exceeds `1`.
 
-   These invariants enable efficient processing of the tree.
+   These invariants enable efficient processing of the tree (because they limit the depth of the tree so that it never asymptotically exceeds the logarithm of the tree size).
 
 2. Implement the following functions:
 
