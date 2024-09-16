@@ -130,10 +130,10 @@ Task 3
    -- | Depth of the tree.
    tdepth :: Tree a -> Int
 
-   -- | Check if the element is in the tree, O(log n)
+   -- | Check if the element is in the tree, O(tdepth tree)
    tmember :: Ord a => a -> Tree a -> Bool
 
-   -- | Insert an element into the tree, O(log n)
+   -- | Insert an element into the tree, O(tdepth tree)
    tinsert :: Ord a => a -> Tree a -> Tree a
 
    -- | Build a tree from a list, O(n log n)
