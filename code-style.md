@@ -569,7 +569,7 @@ group independently.
 You *may* use [`weeder`][weeder] to detect
 unused dependencies and exported modules.
 
-[stylish-haskell]: https://github.com/serokell/metatemplates/blob/master/templates/haskell/.stylish-haskell.yaml
+[stylish-haskell]: https://github.com/serokell/metatemplates/blob/master/haskell/.stylish-haskell.yaml
 [hlint]: https://github.com/serokell/metatemplates/blob/master/haskell/.hlint.yaml
-[editorconfig]: https://github.com/serokell/metatemplates/blob/master/templates/haskell/.editorconfig
+[editorconfig]: https://github.com/serokell/metatemplates/blob/master/.editorconfig
 [weeder]: https://hackage.haskell.org/package/weeder
